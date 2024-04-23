@@ -1,3 +1,33 @@
+### april 23
+- chess
+- read a little
+- zk study attend
+- audit
+
+### april 22
+- dont remember but pretty much wasted time
+- and music
+
+### april 21
+- dont remember much 
+- but moonmath
+- pod i guess
+
+### april 20
+- anime
+- pod
+- zovoe docs for 10 min
+
+### april 19
+- anime
+- rust
+- melodysheep new video of movie size
+
+### april 18
+- i dont remember since it was b4 3 days and im 
+- i think a lot of yt and ..
+- moonmath maybe
+
 ### april 17
 - moonmath ex15-20
 - read lesson 3 more
