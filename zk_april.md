@@ -1,40 +1,56 @@
+### april 24
+
+- audit little time
+- distress call and stuff
+- tired due to distress
+- audit littler time
+- watch pod, drop pod
+
 ### april 23
+
 - chess
 - read a little
 - zk study attend
 - audit
 
 ### april 22
+
 - dont remember but pretty much wasted time
 - and music
 
 ### april 21
-- dont remember much 
+
+- dont remember much
 - but moonmath
 - pod i guess
 
 ### april 20
+
 - anime
 - pod
 - zovoe docs for 10 min
 
 ### april 19
+
 - anime
 - rust
 - melodysheep new video of movie size
 
 ### april 18
-- i dont remember since it was b4 3 days and im 
+
+- i dont remember since it was b4 3 days and im
 - i think a lot of yt and ..
 - moonmath maybe
 
 ### april 17
+
 - moonmath ex15-20
 - read lesson 3 more
 - read number theory https://explained-from-first-principles.com/number-theory/ and https://crypto.stanford.edu/pbc/notes/numbertheory/
 - watched garden of sinner and finished
 
-### april 16 
+### april 16
+
 - read moonmath
 - attended zk study gc discod
 
