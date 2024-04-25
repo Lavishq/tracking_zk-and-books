@@ -1,3 +1,10 @@
+### april 25
+
+- read lots of blogs on security/ opened tabs
+- thought of writing report but i only looked at 5h so idk much but i will judge it since the competition was fierce and hope to learn somethings
+- read moonmath and also attended
+- read a couple blog on rust and tested it locally
+
 ### april 24
 
 - audit little time
