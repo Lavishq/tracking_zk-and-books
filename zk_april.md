@@ -1,3 +1,63 @@
+### may 10
+- sway lang
+- some reading
+
+### may 9 
+- 3 scraping bits eps as woke up, while having breakfast
+- some yt planned, yacademy zk mod1 ep1
+- googles comprehensive rust day 1 morning brrrr, moonmath < 1h
+- audit noya
+
+### may 8
+- some yt maybe
+- moonmath for < 1h
+- started auditing noya
+
+### mayb 3-7
+- idk, yt, pods, reading -> i was doing all sorts of things
+- planning for next and checking ai curriculum for zkml, etc
+
+### may 2
+
+- yt
+- moonmath and attend
+- more yt
+- some audit
+
+### may 1
+
+- yt
+- moonmath
+- perfect blue catchup and 3 ep anime
+
+### april 30
+
+- read some blogs/book
+- yt videos
+
+### april 29
+
+- read manga and reports
+- watch yt aka reduce playlist
+- interview
+
+### april 28
+
+- read reports and couple of blogs
+- secuream test
+- reduce yt playlist
+
+### april 27
+
+- yt vidoes
+- read
+
+### april 26
+
+- yt videos
+- read
+- bookmark organized
+
 ### april 25
 
 - read lots of blogs on security/ opened tabs
