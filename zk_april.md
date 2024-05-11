@@ -1,3 +1,8 @@
+### may 11
+- some yt, sway
+- rust day 1 afternoon some
+- audit noya
+
 ### may 10
 - sway lang
 - some reading
