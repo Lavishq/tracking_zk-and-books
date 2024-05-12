@@ -1,3 +1,8 @@
+### may 12
+- some rust
+- zk pod, yt
+- audit noya (so far around 6h done excluding today)
+
 ### may 11
 - some yt, sway
 - rust day 1 afternoon some
