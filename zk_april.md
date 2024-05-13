@@ -1,3 +1,8 @@
+### may 13 
+- 1-1 latest epm some yt
+- rust and exersize (programs)
+- noya audit (9h done, yet excluding today)
+
 ### may 12
 - some rust
 - zk pod, yt
