@@ -1,3 +1,27 @@
+
+### may 17 
+- yt, scraping bits ep as soon as woke
+- watched a movie
+- idk, what to do next, start another codebase? continue rust/moonmath/zk? uhhh
+- maybe will do remix and rust to end the day
+
+### may 16
+- yt starts
+- had to go out for 4h
+- couldnt report on c4 since writeups was remaining and didnt confirmed all the tags on inline comment
+
+### may 15 
+- onlypwner try seal911
+- do rust til 12.4 
+- had to go out for 3h and my brain refused to review code so sleep
+- cant sleep bc brain is screaming for code, somehow slept
+
+### may 14
+- yt some, 4-5 ep anime in 2.14 mpv in 1.5h
+- went to two meetings and left early
+- recorded first audio-video for epf6 of chainlink-2022 hackathon bc i had nothing else
+- audit continue (12 h done including today)
+
 ### may 13 
 - 1-1 latest epm some yt
 - rust and exersize (programs)
