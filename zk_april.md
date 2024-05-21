@@ -1,3 +1,18 @@
+### may 21
+- rust, zk, reading, rust breaking me
+
+### may 20
+- yt, pods, anime, nothing, reading
+
+### may 19 
+- john wick 4 movie, i dont watch too many movies the last i did was matrix trilogy (matrix 3) something or john wick 3 and in 2021 most likely and if my memory is betraying me than 2022
+- lots of rust and organizing and yt
+
+### may 18
+- nothing productive... burnout break for a day
+- sleep in afternoon
+- meth yt and science yt and etc yt. some reading
+- anime movie
 
 ### may 17 
 - yt, scraping bits ep as soon as woke
