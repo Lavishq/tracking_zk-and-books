@@ -1,3 +1,7 @@
+
+### may 22
+- yt, reading, 1h freecodecamp mern video follow along, since probabilities
+
 ### may 21
 - rust, zk, reading, rust breaking me
 
