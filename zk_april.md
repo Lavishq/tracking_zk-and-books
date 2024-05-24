@@ -1,3 +1,8 @@
+### may 24
+- yt, reading, rust2mastery finish exercises, bookmarks manage
+
+### may 23
+- yt, reading, call.., emails, x/discod bakkk, rustocean
 
 ### may 22
 - yt, reading, 1h freecodecamp mern video follow along, since probabilities
