@@ -1,3 +1,11 @@
+### may 26
+- yt, reading
+- rust
+- anime(konosuba latest 7 catchup)
+
+### may 25 
+- yt, reading, rust2mastery last 3ex finito, begin codecrafters projects etc etc
+
 ### may 24
 - yt, reading, rust2mastery finish exercises, bookmarks manage
 
