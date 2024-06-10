@@ -1,3 +1,35 @@
+### july 3-9
+- explore rust, btc_script in program, yt, zk, ai, rust, chess, moonmath, episodic anime, cosmos, and more
+
+### july 2
+- yt, rust
+- moonmath, a lot of reading
+
+### june 1
+- rust
+- some readings
+- yt
+
+### may 31
+- plays only 5 games or less from now on
+- solved rust and then yt, zk podcast
+
+### may 30 
+- played chess til afternoon and got back where i wanted to (also my sleep cycle from 9=11h went back to 5-7h)
+- watched yt and solve rareskills pdf q
+
+### may 29
+- played chess all night (with bg music) and then slept in afternoon and played it again all day (w/ music)
+
+### may 28
+- yt, rust, rareskills rust problem-set pdf
+- little revision about sol
+
+### may 27
+- yt, reading, anime latest ep
+- rust finito
+- moonmath revice and continue
+
 ### may 26
 - yt, reading
 - rust
