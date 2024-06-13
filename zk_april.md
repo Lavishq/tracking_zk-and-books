@@ -1,3 +1,11 @@
+
+### july 12
+- solved bandit overthewire more than half then got tired took a break and the break was playing chess and then i didnt have the energy to do bandit anymore
+- so watched an anime ep, a couple long yt vids, thats it
+
+### july 10-11
+- dont remember, maybe some study and procastinate?
+
 ### july 3-9
 - explore rust, btc_script in program, yt, zk, ai, rust, chess, moonmath, episodic anime, cosmos, and more
 
