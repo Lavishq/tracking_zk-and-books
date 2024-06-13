@@ -1,10 +1,18 @@
+### july 13
+- started the day w/ chess puzzles as soon wake
+- after breakfast listened jeffrey scholz on scraping bits 
+- after bath, a opensense zk video then chess and i reached 1200+ being 88.8 %ile... road to 90 ptile, hopefully by the month ends i will get there
+- studied mod 10 zkEVM
+- continue and complete bandit (afternoon to night) done
 
 ### july 12
 - solved bandit overthewire more than half then got tired took a break and the break was playing chess and then i didnt have the energy to do bandit anymore
-- so watched an anime ep, a couple long yt vids, thats it
+- also read Demystifying zkML (half)
+- so watched an anime ep, a couple long yt vids, one manga chapter
 
 ### july 10-11
 - dont remember, maybe some study and procastinate?
+- remembered that i joined the opensense call and internship calls and did their stuff
 
 ### july 3-9
 - explore rust, btc_script in program, yt, zk, ai, rust, chess, moonmath, episodic anime, cosmos, and more
