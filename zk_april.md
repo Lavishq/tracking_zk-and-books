@@ -1,3 +1,14 @@
+### july 15
+- got rid of tonns of tabs
+- learning about btc script and also considering golang and bugs but nvm (if there is a contest w/ > 20d will think then)
+- read more about zkml etc etc... maybe will do a ml course soon which i stopped after a few weeks b4 2-2.5 years and apply to be vertatile w/ zkml
+
+### july 14
+- started w/ hard chess puzzles w/ 99% loses and then 4-1 in rated so lost my elo
+- latest ep of anime... fuzzy brain so pushed to watched a podcast (paid attention) pause-play-rewinds and then a movie "fight club" break 12+ pushups again then coffee post 3 pm and focused study started 
+- more pod .. and then read and read code
+- completed reading Demystifying zkML
+
 ### july 13
 - started the day w/ chess puzzles as soon wake
 - after breakfast listened jeffrey scholz on scraping bits 
