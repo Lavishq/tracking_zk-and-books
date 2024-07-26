@@ -1,3 +1,15 @@
+### july 18-26
+- health, interviews, learnings, and so on
+- rn testing new email commit
+
+### july 17
+- some chess, reading
+- learning btc script
+
+### july 16
+- some chess, reading, new aniep
+- learning btc script
+
 ### july 15
 - got rid of tonns of tabs
 - learning about btc script and also considering golang and bugs but nvm (if there is a contest w/ > 20d will think then)
@@ -5,13 +17,13 @@
 
 ### july 14
 - started w/ hard chess puzzles w/ 99% loses and then 4-1 in rated so lost my elo
-- latest ep of anime... fuzzy brain so pushed to watched a podcast (paid attention) pause-play-rewinds and then a movie "fight club" break 12+ pushups again then coffee post 3 pm and focused study started 
+- latest ep of anime... fuzzy brain so pushed to watched a podcast (paid attention) pause-play-rewinds and then a movie "fight club" break 12+ pushups again then coffee post 3 pm and focused study started
 - more pod .. and then read and read code
 - completed reading Demystifying zkML
 
 ### july 13
 - started the day w/ chess puzzles as soon wake
-- after breakfast listened jeffrey scholz on scraping bits 
+- after breakfast listened jeffrey scholz on scraping bits
 - after bath, a opensense zk video then chess and i reached 1200+ being 88.8 %ile... road to 90 ptile, hopefully by the month ends i will get there
 - studied mod 10 zkEVM
 - continue and complete bandit (afternoon to night) done
@@ -41,7 +53,7 @@
 - plays only 5 games or less from now on
 - solved rust and then yt, zk podcast
 
-### may 30 
+### may 30
 - played chess til afternoon and got back where i wanted to (also my sleep cycle from 9=11h went back to 5-7h)
 - watched yt and solve rareskills pdf q
 
@@ -62,7 +74,7 @@
 - rust
 - anime(konosuba latest 7 catchup)
 
-### may 25 
+### may 25
 - yt, reading, rust2mastery last 3ex finito, begin codecrafters projects etc etc
 
 ### may 24
@@ -80,7 +92,7 @@
 ### may 20
 - yt, pods, anime, nothing, reading
 
-### may 19 
+### may 19
 - john wick 4 movie, i dont watch too many movies the last i did was matrix trilogy (matrix 3) something or john wick 3 and in 2021 most likely and if my memory is betraying me than 2022
 - lots of rust and organizing and yt
 
@@ -90,7 +102,7 @@
 - meth yt and science yt and etc yt. some reading
 - anime movie
 
-### may 17 
+### may 17
 - yt, scraping bits ep as soon as woke
 - watched a movie
 - idk, what to do next, start another codebase? continue rust/moonmath/zk? uhhh
@@ -101,9 +113,9 @@
 - had to go out for 4h
 - couldnt report on c4 since writeups was remaining and didnt confirmed all the tags on inline comment
 
-### may 15 
+### may 15
 - onlypwner try seal911
-- do rust til 12.4 
+- do rust til 12.4
 - had to go out for 3h and my brain refused to review code so sleep
 - cant sleep bc brain is screaming for code, somehow slept
 
@@ -113,7 +125,7 @@
 - recorded first audio-video for epf6 of chainlink-2022 hackathon bc i had nothing else
 - audit continue (12 h done including today)
 
-### may 13 
+### may 13
 - 1-1 latest epm some yt
 - rust and exersize (programs)
 - noya audit (9h done, yet excluding today)
@@ -132,7 +144,7 @@
 - sway lang
 - some reading
 
-### may 9 
+### may 9
 - 3 scraping bits eps as woke up, while having breakfast
 - some yt planned, yacademy zk mod1 ep1
 - googles comprehensive rust day 1 morning brrrr, moonmath < 1h
